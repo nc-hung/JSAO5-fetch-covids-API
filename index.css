@@ -27,5 +27,15 @@ body #content tr:hover {
   height: 50px;
   transform: scale(1.1);
 }
+body #tb1 {
+  margin: 3%;
+  color: #eedbdb;
+}
+body #tb1 table,
+body #tb1 tr,
+body #tb1 th,
+body #tb1 td {
+  border: 2px tomato solid;
+}
 
 /*# sourceMappingURL=index.css.map */
