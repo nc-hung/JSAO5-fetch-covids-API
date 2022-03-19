@@ -1,0 +1,31 @@
+body {
+  background-color: #3d486c;
+  padding: 5%;
+}
+body h1 {
+  text-align: center;
+  color: wheat;
+}
+body .search {
+  text-align: center;
+}
+body #content {
+  color: wheat;
+  text-align: center;
+  margin: 0 auto;
+}
+body #content table,
+body #content th,
+body #content td {
+  border: 1px solid #c96767;
+}
+body #content tr {
+  position: relative;
+  transition: all 1s;
+}
+body #content tr:hover {
+  height: 50px;
+  transform: scale(1.1);
+}
+
+/*# sourceMappingURL=index.css.map */
